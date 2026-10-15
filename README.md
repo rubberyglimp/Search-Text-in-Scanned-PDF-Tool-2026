@@ -60,3 +60,4 @@ SEO KEYWORDS
 search text in scanned pdf, ocr pdf, batch ocr, pdf text extraction, search image pdf, scanned document search, pdf ocr tool
  
  
+ 
