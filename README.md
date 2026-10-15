@@ -62,3 +62,4 @@ search text in scanned pdf, ocr pdf, batch ocr, pdf text extraction, search imag
  
  
  
+ 
